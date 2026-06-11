@@ -7,3 +7,4 @@ Include/
 bin/
 Scripts/
 pyvenv.cfg
+database.txt
